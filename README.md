@@ -7,7 +7,7 @@ a. 主体软件不需要额外安装，只需要直接将整个目录拷贝到�
 
 b. 需要预先安装perl，dependence目录下提供了一个64位的perl软件可直接安装
 
-c. 需要预先安装pFind或MaxQuant。根据项目测试，建议安装pFind。pFind需要申请license，请访问“http://pfind.ict.ac.cn/”获得最新的pFind软件
+c. 需要预先安装pFind或MaxQuant。根据项目测试，建议安装pFind。pFind需要申请license，请访问[http://pfind.ict.ac.cn/]获得最新的pFind软件
 
 ## 2. 配置：
 
