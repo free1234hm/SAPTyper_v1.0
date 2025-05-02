@@ -1,0 +1,3 @@
+pro_anno=R:\work\SAPproject\Final_pipeline\bin\data\coding.pro.blast2sp.annotation.xls
+snp2rs=R:\work\SAPproject\Final_pipeline\bin\data\SNP_info2rsID.txt
+gene_anno=R:\work\SAPproject\Final_pipeline\bin\data\Gene.annotation.txt

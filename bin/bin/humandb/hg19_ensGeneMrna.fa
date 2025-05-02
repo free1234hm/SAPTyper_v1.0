@@ -1,0 +1,1 @@
+The complete file is available in the Figshare repository (https://figshare.com/articles/dataset/Large_files_for_SAPTyper_v1_0/28921409).
